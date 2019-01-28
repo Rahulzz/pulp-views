@@ -1,0 +1,34 @@
+{
+  "name": "pulp-views",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "match-sorter": "^2.3.0",
+    "moment-timezone": "^0.5.21",
+    "randomcolor": "^0.5.3",
+    "react": "^16.5.0",
+    "react-beautiful-dnd": "^9.0.2",
+    "react-bootstrap": "^0.32.4",
+    "react-collapse": "^4.0.3",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dnd": "^5.0.0",
+    "react-dnd-touch-backend": "^0.5.2",
+    "react-dom": "^16.5.0",
+    "react-gradient-text": "^0.1.0",
+    "react-motion": "^0.5.2",
+    "react-router-dom": "^4.3.1",
+    "react-router-transition": "^1.2.1",
+    "react-scripts": "1.1.5",
+    "react-table": "^6.8.6",
+    "react-textfit": "^1.1.0",
+    "recharts": "^1.3.3",
+    "semantic-ui-css": "^2.3.3",
+    "semantic-ui-react": "^0.82.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
